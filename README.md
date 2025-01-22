@@ -64,4 +64,5 @@ Week 9: Finalize and deploy the application
 
 ##OUTPUT
 
+<img width="207" alt="Image" src="https://github.com/user-attachments/assets/3a8c6667-374e-434b-8d95-fada48311487" />
 
